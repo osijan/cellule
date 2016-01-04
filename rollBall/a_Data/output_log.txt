@@ -1,0 +1,91 @@
+Initialize engine version: 5.0.2f1 (0b02744d4013)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 660 Ti (ID=0x1183)
+    Vendor:   NVIDIA
+    VRAM:     1984 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Unity\Projects\rollBall\a_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Unity\Projects\rollBall\a_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Unity\Projects\rollBall\a_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\Unity\Projects\rollBall\a_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Unity\Projects\rollBall\a_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Unity\Projects\rollBall\a_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Unity\Projects\rollBall\a_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\Unity\Projects\rollBall\a_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: F:\Unity\Projects\rollBall\a_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Unity\Projects\rollBall\a_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Unity\Projects\rollBall\a_Data\Managed\Photon3Unity3D 1.dll (this message is harmless)
+Loading F:\Unity\Projects\rollBall\a_Data\Managed\Photon3Unity3D 1.dll into Unity Child Domain
+Platform assembly: F:\Unity\Projects\rollBall\a_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading F:\Unity\Projects\rollBall\a_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: F:\Unity\Projects\rollBall\a_Data\Managed\wwwChat.dll (this message is harmless)
+Loading F:\Unity\Projects\rollBall\a_Data\Managed\wwwChat.dll into Unity Child Domain
+- Completed reload, in  0.101 seconds
+desktop: 1920x1080 144Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: F:\Unity\Projects\rollBall\a_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Unity\Projects\rollBall\a_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: F:\Unity\Projects\rollBall\a_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: F:\Unity\Projects\rollBall\a_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 27b8 -> priority: 1 
+  Thread -> id: 27bc -> priority: 1 
+Initialize engine version: 5.0.2f1 (0b02744d4013)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 660 Ti (ID=0x1183)
+    Vendor:   NVIDIA
+    VRAM:     1984 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Unity\Projects\rollBall\a_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Unity\Projects\rollBall\a_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Unity\Projects\rollBall\a_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\Unity\Projects\rollBall\a_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Unity\Projects\rollBall\a_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Unity\Projects\rollBall\a_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Unity\Projects\rollBall\a_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\Unity\Projects\rollBall\a_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: F:\Unity\Projects\rollBall\a_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Unity\Projects\rollBall\a_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Unity\Projects\rollBall\a_Data\Managed\Photon3Unity3D 1.dll (this message is harmless)
+Loading F:\Unity\Projects\rollBall\a_Data\Managed\Photon3Unity3D 1.dll into Unity Child Domain
+Platform assembly: F:\Unity\Projects\rollBall\a_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading F:\Unity\Projects\rollBall\a_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: F:\Unity\Projects\rollBall\a_Data\Managed\wwwChat.dll (this message is harmless)
+Loading F:\Unity\Projects\rollBall\a_Data\Managed\wwwChat.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+desktop: 1920x1080 144Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: F:\Unity\Projects\rollBall\a_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Unity\Projects\rollBall\a_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: F:\Unity\Projects\rollBall\a_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: F:\Unity\Projects\rollBall\a_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 454 -> priority: 1 
+  Thread -> id: 24c0 -> priority: 1 
+Server Initializied
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NetworkManager:OnServerInitialized() (at F:\Unity\Projects\rollBall\Assets\Scripts\NetworkManager.cs:19)
+UnityEngine.Network:InitializeServer(Int32, Int32, Boolean)
+NetworkManager:StartServer() (at F:\Unity\Projects\rollBall\Assets\Scripts\NetworkManager.cs:13)
+NetworkManager:OnGUI() (at F:\Unity\Projects\rollBall\Assets\Scripts\NetworkManager.cs:27)
+ 
+(Filename: F:/Unity/Projects/rollBall/Assets/Scripts/NetworkManager.cs Line: 19)
+
+Server Joined
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NetworkManager:OnConnectedToServer() (at F:\Unity\Projects\rollBall\Assets\Scripts\NetworkManager.cs:63)
+ 
+(Filename: F:/Unity/Projects/rollBall/Assets/Scripts/NetworkManager.cs Line: 63)
+
+Waiting for finish
+Waiting for finish

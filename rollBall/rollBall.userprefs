@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/followMouse.cs">
+    <Files>
+      <File FileName="Assets/Scripts/followMouse.cs" Line="90" Column="45" />
+      <File FileName="Assets/Scripts/CameraController.cs" Line="6" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
