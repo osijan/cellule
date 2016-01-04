@@ -73,7 +73,7 @@
      <None Include="Assets\SimChat\readme.txt" />
      <None Include="Assets\Photon Unity Networking\changelog.txt" />
  <Reference Include="Assembly-UnityScript">
- <HintPath>/Users/osijan/Desktop/random code/rollBall/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ <HintPath>/Users/osijan/GitHub/cellule/rollBall/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
@@ -91,19 +91,19 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>/Users/osijan/Desktop/random code/rollBall/Assets/Photon Unity Networking/Editor/PhotonNetwork/Newtonsoft.Json.dll</HintPath>
+ <HintPath>/Users/osijan/GitHub/cellule/rollBall/Assets/Photon Unity Networking/Editor/PhotonNetwork/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="Photon3Unity3D 1">
- <HintPath>/Users/osijan/Desktop/random code/rollBall/Assets/Plugins/Photon3Unity3D 1.dll</HintPath>
+ <HintPath>/Users/osijan/GitHub/cellule/rollBall/Assets/Plugins/Photon3Unity3D 1.dll</HintPath>
  </Reference>
  <Reference Include="Photon3Unity3D">
- <HintPath>/Users/osijan/Desktop/random code/rollBall/Assets/Plugins/Photon3Unity3D.dll</HintPath>
+ <HintPath>/Users/osijan/GitHub/cellule/rollBall/Assets/Plugins/Photon3Unity3D.dll</HintPath>
  </Reference>
  <Reference Include="websocket-sharp">
- <HintPath>/Users/osijan/Desktop/random code/rollBall/Assets/Plugins/WebSocket/websocket-sharp.dll</HintPath>
+ <HintPath>/Users/osijan/GitHub/cellule/rollBall/Assets/Plugins/WebSocket/websocket-sharp.dll</HintPath>
  </Reference>
  <Reference Include="wwwChat">
- <HintPath>/Users/osijan/Desktop/random code/rollBall/Assets/SimChat/wwwChat.dll</HintPath>
+ <HintPath>/Users/osijan/GitHub/cellule/rollBall/Assets/SimChat/wwwChat.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.Graphs.dll</HintPath>
